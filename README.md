@@ -53,7 +53,7 @@ This is a fully functional MVP that runs entirely locally with no external depen
 
 ```bash
 # Clone the repository
-git clone < https://github.com/asapabhii/capacity-compass >
+git clone https://github.com/asapabhii/capacity-compass
 cd capacity-compass
 
 # Install dependencies
