@@ -2,6 +2,11 @@
 
 A production-ready web application that forecasts workload risk across upcoming days, helping you optimize task allocation and prevent burnout.
 
+Live: https://pulse.asapabhi.me/
+
+<img width="1112" height="985" alt="image" src="https://github.com/user-attachments/assets/76fcb6c6-c5a8-4a72-8f3c-d2c4809c83ca" />
+<img width="1035" height="975" alt="image" src="https://github.com/user-attachments/assets/f6f215e1-987c-40d2-aa6d-028c70e6304e" />
+
 ## Overview
 
 Capacity Compass analyzes your calendar events and task list to:
