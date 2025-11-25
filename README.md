@@ -4,7 +4,7 @@ A production-ready web application that forecasts workload risk across upcoming 
 
 Live: https://pulse.asapabhi.me/
 
-<img width="1112" height="985" alt="image" src="https://github.com/user-attachments/assets/76fcb6c6-c5a8-4a72-8f3c-d2c4809c83ca" />
+<img width="1026" height="797" alt="image" src="https://github.com/user-attachments/assets/bef710c9-9e7e-4987-b169-fe9c9c3dda12" />
 <img width="1035" height="975" alt="image" src="https://github.com/user-attachments/assets/f6f215e1-987c-40d2-aa6d-028c70e6304e" />
 
 ## Overview
