@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@layer base {
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  .gradient-neon {
+    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  }
+  
+  .gradient-neon-hover {
+    background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+  }
+  
+  .shadow-dark {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .shadow-dark-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.3);
+  }
+  
+  .glow-accent {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.3);
+  }
+  
+  .glow-accent-hover {
+    box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);
+  }
+  
+  .border-dark {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .bg-surface {
+    background-color: #1a1d29;
+  }
+  
+  .bg-surface-elevated {
+    background-color: #22252f;
+  }
+}
